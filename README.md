@@ -21,7 +21,7 @@ NOTE: This is not a compiled EXE. It's simply a .pyw file, so you must have pyth
 
 There are currently four files I have made two CSV and two excel files. There is an international version that uses foreign exchange rates
 
-Currently working to connect to mysql scripts and started on a website so this gets stored online
+Currently working to connect to mysql scripts and started on a website you can try it using http://sftracker.myfirewall.org. 
 
 If you want to reach me I am available on reddit as user Odd_Cat_5975
 
