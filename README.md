@@ -19,7 +19,7 @@ This project does not work out of the box. If you wish to use it to track your o
 
 NOTE: This is not a compiled EXE. It's simply a .pyw file, so you must have python installed to run it. Also, note that putting your public wallet key into this program is 100% safe. Nobody can access your coin just with your public key. You can see the entire source code, so if you are afraid anything fishy is being pulled go ahead and look through it to see how the program uses your public key.
 
-There are currently four files I have made two CSV and two excel files. There is an international version that uses foreign exchange rates
+There are currently four files I have made two CSV and two excel files. There is an international version that uses foreign exchange rates. Also files for Ethereum tokens
 
 Currently working to connect to mysql scripts and started on a website you can try it using http://sftracker.myfirewall.org. 
 
