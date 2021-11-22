@@ -1,5 +1,4 @@
 # This script doesn't work if the closing balance column has thousand separator so only thing to fix
-# Tip jar address if you appreciate this script 0x32D2da7308516e46D38EC638FE2144dE2250B7D3 Thank You 
 #
 #Big thanks again to Sam Brimhall
 #After installing python you also need to install module requests and pandas to do this simple type in command prompt 
